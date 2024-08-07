@@ -1,4 +1,4 @@
-Olá! eu sou o Nicollas Prim...
+Olá! eu sou o Nicollas Prim!
 
 - 🔭 Portobello S/A
 - 🌱 HTML, Js & Css
