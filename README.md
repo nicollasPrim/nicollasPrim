@@ -6,8 +6,8 @@ Olá! eu sou o Nicollas Prim!
 
 <div align="center">
   <div class="graficos">
-    <img height="200em" src="https://github-readme-stats.vercel.app/api/?username=nicollasjprm&show_icons=true&theme=gotham">
-    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicollasjprm&theme=gotham&layout=donut">
+    <img height="200em" src="https://github-readme-stats.vercel.app/api/?username=nicollasPrim&show_icons=true&theme=gotham">
+    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicollasPrim&theme=gotham&layout=donut">
   </div>
   <div>
     <img id="viewer" src="https://visitcount.itsvg.in/api?id=nicollasjprm&label=Profile%20Views&icon=5&pretty=true" style="width: 200px !important;">
