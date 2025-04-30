@@ -2,7 +2,6 @@ Olá! eu sou o Nicollas Prim!
 
 - 🔭 Portobello S/A
 - 🌱 HTML, Js, Java & Css
-- 😄 Ele/Dele
 
 <div align="center">
   <div class="graficos">
