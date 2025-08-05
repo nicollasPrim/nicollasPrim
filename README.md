@@ -23,8 +23,8 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=nicollasricas&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicollasricas&layout=compact&theme=radical&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=nicollasPrim&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicollasPrim&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 ---
@@ -32,11 +32,11 @@
 ## 🏆 Trophies & Streaks
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nicollasricas&theme=radical&row=1&no-bg=true&margin-w=15&no-frame=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=nicollasPrim&theme=radical&row=1&no-bg=true&margin-w=15&no-frame=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nicollasricas&theme=radical&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nicollasPrim&theme=radical&hide_border=true" />
 </p>
 
 ---
