@@ -1,6 +1,6 @@
 <h1 align="center">Olá! Eu sou o Nicollas Prim 👋</h1>
 
-<p align="center">🌱 HTML, JavaScript, Java & CSS Developer • Full Stack em construção • Apaixonado por automação e plugins 🚀</p>
+<p align="center">🌱  HTML, JavaScript, Java & CSS • Dev Full Stack </p>
 
 ---
 
