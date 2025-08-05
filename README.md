@@ -18,21 +18,12 @@
   <img align="center" alt="Nicollas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Nicollas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Nicollas-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Nicollas-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="center" alt="Nicollas-Laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg">
   <img align="center" alt="Nicollas-Typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
 </div>
 
 ---
 
-## 🚀 Projetos em Destaque
-- 🔗 [**decks-vscode**](https://github.com/nicollasPrim/decks-vscode) — Integração do Stream Deck com VSCode.
-- 🔗 [**vscode-encourage**](https://github.com/nicollasPrim/vscode-encourage) — Incentivos automáticos a cada salvamento.
-- 🔗 [**streamdeckvs**](https://github.com/nicollasPrim/streamdeckvs) — Plugin para Visual Studio.
-
----
-
-## 🌍 Onde me encontrar
+## 🌍 Redes
 <div align="center"> 
   <a href="https://instagram.com/nicprim_" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
