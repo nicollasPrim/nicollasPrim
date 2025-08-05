@@ -11,8 +11,6 @@
   </div>
 </div>
 
----
-
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Nicollas-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Nicollas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -20,8 +18,6 @@
   <img align="center" alt="Nicollas-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Nicollas-Typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
 </div>
-
----
 
 ## 🌍 Redes
 <div align="center"> 
