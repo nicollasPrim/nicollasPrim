@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=200&section=header&text=Nicollas%20Prim.%20🚀&fontSize=40&fontAlignY=35&animation=twinkling" />
-</p>
-
-<p align="center">
   <a href="https://github.com/nicollasricas"><img src="https://img.shields.io/github/followers/nicollasricas?label=Followers&style=social" alt="GitHub Followers"></a>
   <a href="https://github.com/nicollasricas?tab=repositories"><img src="https://img.shields.io/github/stars/nicollasricas?label=Stars&style=social" alt="GitHub Stars"></a>
 </p>
