@@ -11,27 +11,15 @@
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicollasPrim&layout=compact&theme=tokyonight&hide_border=true">
 </div>
 
-<div align="center" style="display: inline_block"><br>
-
-<img align="center" alt="Nicollas-JS" height="30" width="40"
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-
-<img align="center" alt="Nicollas-HTML" height="30" width="40"
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-
-<img align="center" alt="Nicollas-CSS" height="30" width="40"
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-
-<img align="center" alt="Nicollas-Java" height="30" width="40"
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-
-<img align="center" alt="Nicollas-MySQL" height="30" width="40"
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-
-<img align="center" alt="Nicollas-GitHub" height="30" width="40"
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
-
-</div>
+<p align="center">
+  <img alt="JavaScript" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img alt="HTML5" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img alt="CSS3" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img alt="Java" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img alt="TypeScript" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+  <img alt="MySQL" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img alt="GitHub" height="30" src="https://cdn-icons-png.flaticon.com/512/25/25231.png">
+</p>
 
 <hr>
 
